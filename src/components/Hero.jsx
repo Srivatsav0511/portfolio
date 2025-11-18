@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import imghero from '../assets/imghero.png'
 import github from '../assets/github.png'
 import linkedin from '../assets/linkedin.png'
+import srivatsavcv from '../assets/srivatsavcv.pdf'
 export default function Hero() {
     return (
         <div className='relative overflow-hidden min-h-[550px] sm:min-h-[600px] flex flex-col items-center'>
@@ -36,7 +37,7 @@ export default function Hero() {
                             <img src={github} alt="GitHub" className='w-11 h-11' />
                         </a>
                     </div>
-                    <a href="/Srivatsav-CV.pdf" download>
+                   <a href={srivatsavcv} download="Srivatsavcv.pdf">
                         <button className='inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#801b9c] hover:shadow-[0_0_40px_rgba(128,0,128,0.7)] rounded-full text-lg'>
                             Download CV
                         </button>
