@@ -53,7 +53,7 @@ export default function Skills() {
                     and <span className='bg-gradient-to-r from-[#c744ec] to-[#bb61c5] bg-clip-text text-transparent'>Skills</span>
                 </h2>
                 <p className='text-gray-400 text-sm sm:text-base max-w-3xl mx-auto mt-6'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae culpa perspiciatis distinctio atque placeat tempore quo eligendi voluptate quasi error!
+                   Explore my technical toolkit and the technologies I work with to build modern, scalable applications.
                 </p>
             </div>
 
