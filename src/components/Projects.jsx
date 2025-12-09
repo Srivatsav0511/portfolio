@@ -21,10 +21,10 @@ export default function Projects() {
         },
         {
             id: 3,
-            title: 'Porfolio Website',
-            description: 'A modern, responsive portfolio website showcasing my projects and skills with smooth animations and an intuitive user interface. Built with React.js, Tailwind CSS, and AOS animations for an engaging user experience.',
+            title: 'CodeClarity App',
+            description: 'Developed an AI-powered code analysis web application using React, TypeScript, and Tailwind CSS for the frontend, and a Node.js backend to integrate LLM APIs.The application leverages a modular, high-performance architecture with secure environment handling to generate automated code explanations and summaries.',
             image: project3,
-            link: ''
+            link: 'https://codeclarity-ai.vercel.app/'
         }
 
     ];

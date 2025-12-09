@@ -34,9 +34,10 @@ export default function About() {
                             </h1>
                         </header>
                         <p className='text-base sm:text-lg md:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed'>
-                            I’m a recent B.Tech graduate and an aspiring Full-Stack Developer with strong frontend skills in HTML, CSS, JavaScript, and React. I enjoy building clean, responsive, and user-friendly interfaces.
-                            Right now, I’m focused on improving my frontend projects and planning to learn backend soon to become a complete developer.
-                        </p>
+                           
+                        </p> I specialize in building clean, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React. I have successfully developed several projects, focusing on creating seamless user experiences. I am actively refining my frontend portfolio and look forward to mastering backend technologies to round out my full-stack capabilities.
+
+
                         <footer>
                         
                         </footer>

@@ -26,8 +26,8 @@ export default function Hero() {
                         </h2>
                     </header>
                     <p className='text-base sm:text-lg md:text-lg text-gray-200 mb-6'>
-                        Aspiring Full-Stack Developer | Recent B.Tech Graduate
-                        Skilled in frontend development with hands-on experience in HTML, CSS, JavaScript and React.
+                        I am a dedicated Frontend Developer specializing in React, JavaScript, HTML, and CSS, experienced in building clean, responsive applications and actively developing full-stack capabilities.
+
                     </p>
                     <div className='flex items-center space-x-4 mb-6'>
                         <a href="https://www.linkedin.com/in/srivatsavk">
